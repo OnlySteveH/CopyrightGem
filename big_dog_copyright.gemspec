@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["steve.hunter@bigdogconsultants.co.uk"]
 
   spec.summary       = %q{Inserts a name and msg in the view}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "http://www.bigdogconsultants.co.uk"
   spec.license       = "MIT"
 
   spec.files         = Dir.chdir(File.expand_path('..', __FILE__)) do

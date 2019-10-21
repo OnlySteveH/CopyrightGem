@@ -21,7 +21,15 @@ Or install it yourself as:
 ## Usage
 
 ```
+#for example
 copyright name, msg
+
+@copyright = big_dog_view_tool::Renderer.copyright("Big Dog Consultants Ltd", "All rights reserved")
+```
+In the view:
+
+```
+<%= @copyright %>
 ```
 
 ## Development
